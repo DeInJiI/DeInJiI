@@ -7,8 +7,8 @@ I made this project for our acquaintance. Now I am studying Android development 
 Skills: Java and Basics of OOP
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning I’m currently Student of computer sience  
-- 👯 I’m looking to collaborate on I’m looking to collaborate on Big project and GAME DEV!  
+- 🌱 I’m currently Student of computer sience  
+- 👯 I’m looking to collaborate on Big project and GAME DEV!  
 - 😄 Pronouns: He 
 
 
