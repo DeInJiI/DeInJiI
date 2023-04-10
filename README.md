@@ -2,7 +2,7 @@
 #### I am computer sience student and a trainee developer without commercial experience
 
 
-I made this project for our acquaintance. Now I am studying Android development of android applications on Java and OOP. I'm going to study C# and C++ in the future to develop applications and games that I love. I'm always ready to learn and learn something new, because without enthusiasm it is impossible to reach the top!
+I made this project for our acquaintance. Now I am studying Android development of android applications on Java and OOP. I'm going to study C# and C++ in the future to develop applications and games that I love. I'm always ready to learn something new, because without enthusiasm it is impossible to reach the top!
 
 Skills: Java and Basics of OOP
 
